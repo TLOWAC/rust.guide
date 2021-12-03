@@ -3,9 +3,9 @@
 ## resource
 |       | category                                                                                  | description |
 | ----- | :---------------------------------------------------------------------------------------- | :---------- |
-| No. 1 | [`cargo plugin`](https://github.com/TLOWAC/rust.guide/blob/master/resource/docs.md)       | -           |
-| No. 2 | [`rust documentation`](https://github.com/TLOWAC/rust.guide/blob/master/resource/docs.md) | -           |
-| No. 3 | [`etc`](https://github.com/TLOWAC/rust.guide/blob/master/resource/docs.md)                | -           |
+| No. 1 | [`cargo plugin`](https://github.com/TLOWAC/rust.guide/blob/master/resource/docs.md#cargo-plugin)       | -           |
+| No. 2 | [`rust documentation`](https://github.com/TLOWAC/rust.guide/blob/master/resource/docs.md#rust-documetation) | -           |
+| No. 3 | [`etc`](https://github.com/TLOWAC/rust.guide/blob/master/resource/docs.md#etc)                | -           |
 
 <br />
 
