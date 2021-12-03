@@ -7,8 +7,7 @@
 | No. 2 | [`rust documentation`](https://github.com/TLOWAC/rust.guide/blob/master/resource/docs.md) | -           |
 | No. 3 | [`etc`](https://github.com/TLOWAC/rust.guide/blob/master/resource/docs.md)                | -           |
 
-
-
+<br />
 
 ## example 
 > when i try to learn and dive for rust programming then i begin to made several example code.  
