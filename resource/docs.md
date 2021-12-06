@@ -1,4 +1,4 @@
-# Documentation
+# Information
 
 ## cargo plugin 
 > it was development your rust programming experience exactly!
@@ -12,9 +12,10 @@
 ## rust guide
 | guide                                                                                   | description |
 | ----------------------------------------------------------------------------------------------- | ----------- |
-| [[Tutorial] Tour of Rust](https://tourofrust.com/) |- |
-| [[Docs] The Rust Programming Language - EN](https://doc.rust-lang.org/book/)                           | -           |
-| [[Docs] The Rust Programming Language - KR](https://rinthel.github.io/rust-lang-book-ko/foreword.html) | -           |
+| [[ Docs ] The Rust Programming Language - EN](https://doc.rust-lang.org/book/)                           | -           |
+| [[ Docs ] The Rust Programming Language - KR](https://rinthel.github.io/rust-lang-book-ko/foreword.html) | -           |
+| [[ Tutorial ] Tour of Rust](https://tourofrust.com/) |- |
+
 
 
 
