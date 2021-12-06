@@ -9,7 +9,7 @@
 | [cargo-watch](https://github.com/watchexec/cargo-watch) | -           |
 | [cargo-make](https://github.com/sagiegurari/cargo-make) | -           |
 
-## rust documetation
+## rust documentation
 | documentation                                                                                   | description |
 | ----------------------------------------------------------------------------------------------- | ----------- |
 | [The Rust Programming Language - EN](https://doc.rust-lang.org/book/)                           | -           |
