@@ -10,11 +10,12 @@
 | [cargo-make](https://github.com/sagiegurari/cargo-make) | -           |
 
 ## rust guide
-| documentation                                                                                   | description |
+| guide                                                                                   | description |
 | ----------------------------------------------------------------------------------------------- | ----------- |
-| [The Rust Programming Language - EN](https://doc.rust-lang.org/book/)                           | -           |
-| [The Rust Programming Language - KR](https://rinthel.github.io/rust-lang-book-ko/foreword.html) | -           |
 | [[Tutorial] Tour of Rust](https://tourofrust.com/) |- |
+| [[Docs] The Rust Programming Language - EN](https://doc.rust-lang.org/book/)                           | -           |
+| [[Docs] The Rust Programming Language - KR](https://rinthel.github.io/rust-lang-book-ko/foreword.html) | -           |
+
 
 
 ## etc.
