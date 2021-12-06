@@ -9,11 +9,13 @@
 | [cargo-watch](https://github.com/watchexec/cargo-watch) | -           |
 | [cargo-make](https://github.com/sagiegurari/cargo-make) | -           |
 
-## rust documentation
+## rust guide
 | documentation                                                                                   | description |
 | ----------------------------------------------------------------------------------------------- | ----------- |
 | [The Rust Programming Language - EN](https://doc.rust-lang.org/book/)                           | -           |
 | [The Rust Programming Language - KR](https://rinthel.github.io/rust-lang-book-ko/foreword.html) | -           |
+| [[Tutorial] Tour of Rust](https://tourofrust.com/) |- |
+
 
 ## etc.
 > Link that I haven't classified yet.
